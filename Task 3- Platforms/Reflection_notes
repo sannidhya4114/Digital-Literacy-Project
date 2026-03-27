@@ -1,0 +1,21 @@
+# Part A: Coding Practice (HackerRank)
+
+The primary objective of this task was to engage with a competitive programming environment and validate fundamental syntax. Completing the Python Introduction challenges provided a structured way to reinforce logic without the overhead of complex project architecture.
+
+Key Learnings:
+
+  Environment Familiarity: Navigating the HackerRank interface, specifically the STDIN/STDOUT requirements, which differ from local IDE execution.
+
+  Constraint Awareness: Solving the 'Solve Me First' challenge highlighted the importance of reading task constraints carefully to ensure the solution handles edge cases.
+
+  Problem-Solving Workflow: Approaching the challenge by first defining the mathematical logic and then translating it into clean, PEP 8-compliant Python code.
+
+# Part B: Google Workspace Collaboration
+
+This task focused on the practical application of cloud-based tools for data collection and batch-wide engagement. Designing a 'Digital Literacy Awareness Quiz' required balancing informative content with an intuitive user experience.
+
+Design & Implementation:
+
+  Question Variety: I structured the form with 5 distinct questions, including a Multiple Choice section to test specific knowledge and a Short Answer section to gather qualitative insights from peers.
+
+  Data Integration: Linking the form to a Google Sheet was essential for real-time monitoring. This setup allows for immediate data analysis and visualization as responses are submitted.
