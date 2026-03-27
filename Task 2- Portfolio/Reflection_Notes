@@ -1,0 +1,25 @@
+1. GitHub: The Digital Portfolio
+
+Action Taken: Created a specialized "Profile README" repository.
+
+Reflection: Setting up the README was a first step in version control and personal branding. It requires a balance of technical details and personal goals. For my profile, I focused on:
+  Visibility: Ensuring my branch and year are clear for recruiters or collaborators.
+  Objective: I explicitly stated my goal to master deep learning architectures and data visualization.
+
+Key Learning: I discovered that the Profile README is a "secret" repository that acts as a landing page, allowing me to use Markdown to showcase my coding journey.
+
+2. LinkedIn: Professional Networking
+
+Action Taken: Updated the Education section with current degree details and expected graduation date.
+
+Reflection: This platform is less about the "code" and more about the "context." By adding my specific institution and degree, I am positioning myself within the professional academic community.
+
+Key Learning: Keeping the graduation year updated is crucial for internship and entry-level job filters. It helps in connecting with alumni who have pursued similar paths in the health-tech or data sectors.
+
+3. Kaggle: Data Science Community
+
+Action Taken: Established a profile on the primary hub for data science competitions.
+
+Reflection: Kaggle is more than just a place for datasets; it is a benchmark for practical skill. My goal here is to eventually move from exploring public notebooks to contributing my own scripts and competing in vision or tabular data challenges.
+
+Key Learning: A complete Kaggle profile provides a "Competitions" and "Notebooks" rank, which serves as a secondary, specialized resume for data-heavy roles.
