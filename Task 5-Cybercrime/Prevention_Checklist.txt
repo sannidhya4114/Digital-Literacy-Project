@@ -1,0 +1,27 @@
+# Stay Safe Online: A Checklist for Students in India
+Navigating the digital landscape while balancing coursework and campus life requires a proactive approach to security.
+Use this checklist to ensure your personal and financial data remains protected.
+
+1. Secure Your UPI Transactions: Never enter your UPI PIN to receive money. A PIN is only required to send money or check your balance. If someone sends you a QR code claiming it is to "deposit" funds into your account, it is a scam.
+
+2. Verify Payee Identity: Before hitting 'send' on any payment app, double-check the recipient's name that appears after scanning a QR code or entering a mobile number. Scammers often use names similar to legitimate businesses or college departments.
+
+3. Use Multi-Factor Authentication (MFA): Enable MFA on your university email, social media, and banking apps. This adds a second layer of defense, such as an OTP or an authenticator app code, even if someone steals your password.
+
+4. Practice Public Wi-Fi Hygiene: Avoid logging into bank accounts or student portals while connected to "Free Campus Wi-Fi" or cafe networks. If you must use them, use a reputable VPN to encrypt your traffic.
+
+5. Audit App Permissions: Regularly check the settings on your smartphone to see which apps have access to your contacts, location, and microphone. Delete "utility" apps (like third-party scanners or flashlights) that request unnecessary data access.
+
+6. Identify Phishing "Urgency": Be skeptical of emails or SMS messages claiming your "Scholarship is suspended" or "Library account is locked" that demand you click a link immediately. Always log in directly through the official university website instead of clicking links.
+
+7. Protect Your Aadhaar & Digital IDs: Do not share photos of your Aadhaar card, PAN card, or Student ID on public social media stories. Use the Masked Aadhaar feature (which hides the first 8 digits) when providing ID for non-governmental purposes like SIM card registration or hostel check-ins.
+
+8. Set Social Media Boundaries: Set your profiles to "Private" or "Friends Only." Limit the amount of real-time "check-in" data you share, as this can be used by bad actors to track your physical location on or off-campus.
+
+# How to Report Cybercrime
+
+If you or someone you know has been a victim of online fraud or harassment, take immediate action through the official government channels:
+
+Portal: Register a complaint at cybercrime.gov.in
+
+Helpline: Dial 1930 immediately to report financial fraud (the "Golden Hour" for freezing stolen funds).
